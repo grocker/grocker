@@ -1,7 +1,7 @@
 grocker
 =======
 
-Microservice container for the JVM.
+Microservices container for the JVM.
 
 please go to the [wiki](https://github.com/grocker/grocker/wiki).
 
