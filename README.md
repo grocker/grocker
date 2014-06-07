@@ -1,7 +1,7 @@
 grocker
 =======
 
-Modular monoliths for the JVM.
+Microservice container for the JVM.
 
 please go to the [wiki](https://github.com/grocker/grocker/wiki).
 
